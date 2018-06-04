@@ -1,4 +1,3 @@
-Author: Michael Stephen Chen
 
 Original Algorithm:
 Jianhua Zhao, Harvey Lui, David I. McLean, and Haishan Zeng, "Automated Autofluorescence Background Subtraction
